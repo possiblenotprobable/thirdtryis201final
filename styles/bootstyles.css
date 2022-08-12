@@ -1,18 +1,26 @@
-.common {background-color: whitesmoke;
-    border: solid 2px lightgray;
+.common {background-color: rgba(2, 99, 151, 0.5);
+    border: solid 2px rgba(211, 211, 211, 0.022);
     position: relative;}
+
+body{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color: rgba(0, 94, 176, 0.096)}
+    
+    div{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px}
+        
 
 .header{top:5px;
     left:5px;
     right: 5px;
     height: 25px;
         z-index: 2;
-        border-bottom: solid 2px lightgray;
+        border-bottom: solid 2px rgb(2, 99, 151, 0.5);
         text-align: center}
 
 .footer{height: 25px;
         font-size: 10px;
-        color: #999999;
+        color: white;
         text-align: center;
         bottom: 0;
         width: 100%;
@@ -31,9 +39,3 @@
 
 .line{text-decoration: overline underline;}
 
-body{font-family: inherit;
-color: black;
-background-color: aliceblue}
-
-div{font-family: monospace;
-font-size: 15px}
