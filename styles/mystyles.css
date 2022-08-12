@@ -1,0 +1,30 @@
+.italic{font-style: italic}
+
+.italic2{font-style: italic;
+            color: darkgrey}
+
+.alttext{font-family: cursive;
+            color: forestgreen;}
+
+.chocolate{color: chocolate}
+
+.Bold {font-weight: bold}
+
+.Bolder{font-weight: bolder}
+
+.color{color:#333333}
+
+.subheadcol{color:lightsteelblue}
+
+.headcol{color:aliceblue}
+
+p{color: #333333}
+
+.JRG{color: #777777;
+        text-decoration: overline;}
+
+.Solid{border-top: 3px solid #bbb;}
+
+.center{text-align: center}
+
+.underline{text-decoration: underline}

@@ -1,0 +1,39 @@
+.common {background-color: whitesmoke;
+    border: solid 2px lightgray;
+    position: relative;}
+
+.header{top:5px;
+    left:5px;
+    right: 5px;
+    height: 25px;
+        z-index: 2;
+        border-bottom: solid 2px lightgray;
+        text-align: center}
+
+.footer{height: 25px;
+        font-size: 10px;
+        color: #999999;
+        text-align: center;
+        bottom: 0;
+        width: 100%;
+        position: fixed}
+
+.pagecont{position:relative;
+    min-height: 100vh}
+
+.mainbody{top: 50px;
+    bottom: 64px;
+    left: 0px;
+    right: 114px;
+    text-align: center}
+
+.bold{font-weight: bold;}
+
+.line{text-decoration: overline underline;}
+
+body{font-family: inherit;
+color: black;
+background-color: aliceblue}
+
+div{font-family: monospace;
+font-size: 15px}
